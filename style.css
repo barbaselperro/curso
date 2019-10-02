@@ -1,0 +1,131 @@
+header div ul li{
+    list-style: none;
+    float: left;
+    padding-left: 0px;
+    padding-right: 20px;
+    position: relative;
+    left: 550px;
+    top: -50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    padding: 0px;
+    margin: 0px;
+    border: solid 2px;
+    background-image: url("images2/design1_image1.jpg");
+    height: 420px;
+
+}
+
+header h2{
+    display: block;
+    background: black;
+    color: rgb(135, 202, 222);
+    text-align: justify;
+    position: relative;
+    padding-left: -100px;
+    top: 300px;
+    font-size: 2em;
+}
+
+h1{
+    color:rgb(135, 202, 222);
+}
+
+.loguito{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: 50px;
+    margin-left: 160px;
+    margin-right: 200px;
+    margin-bottom: 180px;
+}
+
+button{
+    width: 80px;
+}
+
+.referencia{
+    text-align: justify;
+    position: relative;
+    bottom: 350px;
+    padding: 5px;
+    margin-left: 420px;
+    width: 550px;
+}
+
+.referencia h2{
+    padding: 0px;
+}
+.referencia  p{
+    margin: -10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+body footer{
+    padding: 10px;
+    background: rgb(84, 143, 211);
+    color: rgb(185, 84, 58);
+    text-align: center;
+}
+
+.contacto{
+    position: relative;
+    top: 20px;
+    margin: 0px;
+    text-align: justify;
+    color:rgb(18, 71, 39);
+    font-size: 22px;  
+}
+
+section ol li {
+    margin-bottom: 10px;
+}
+
+.listaUl {
+    list-style: lower-alpha;
+    margin: 0px;
+    position: relative;
+    top: -10px;
+}
+div{
+    margin-top: 20px;
+}
+#espacio{
+    margin-top: 20px;
+}
+.letrachica{
+    font-size: 12px;
+}
+
+.mapas{
+    position: relative;
+    bottom: 350px;
+    left: 505px;
+    width: 620px;
+    padding: 0px;
+}
+
+.cstrong{    
+    margin-right: 50px;
+}
+
+.titulosReglas{
+    text-align: center;
+}
+
+header nav{
+    list-style: none;
+    float: left;
+    width: 400px;
+    padding-right: 20px;
+    position: relative;
+    margin-right: 400px;
+    left: 550px;
+}

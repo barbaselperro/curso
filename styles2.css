@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+section{
+    margin-left: 100px;
+    width: 540px;
+    text-align: left;
+}
+section ol li {
+    margin-bottom: 20px;
+}
+div ul li{
+    list-style: lower-alpha;
+    margin: 0px;
+    
+}

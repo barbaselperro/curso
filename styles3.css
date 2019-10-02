@@ -1,0 +1,12 @@
+body{
+    margin-left: 100px;
+}
+header{
+    text-align: center;
+    padding-right: 120px;
+
+}
+
+#rayado{
+    text-decoration-line: underline;
+}
